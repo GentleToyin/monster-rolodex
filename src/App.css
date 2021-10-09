@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+#title{
+  font-family: 'Press Start 2P';
+  font-size:72px ;
+  color: #0ccac4;
+}
